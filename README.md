@@ -19,7 +19,7 @@ Ranbir's Cycles is a dynamic web application for listing and viewing bicycles av
 - **Database:** MySQL
 
 ## Setup Instructions
-1. Clone the repository: `git clone https://github.com/gill345/ranbircycles`
+1. Clone the repository: `git clone https://github.com/gill345/ranbircycles.git`
 2. Set up a MySQL database and import the provided SQL schema.
 3. Configure the database connection in `config.php`.
 4. Ensure you have PHP and a web server (like XAMPP, or InfinityFree) installed.
