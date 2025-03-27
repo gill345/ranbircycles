@@ -3,8 +3,6 @@ Link to site: <a href="http://ranbircycles.ct.ws/index.php">Ranbir's Cycles</a> 
 
 ![Screenshot 2025-02-09 170054](https://github.com/user-attachments/assets/dcf69d2f-be06-4426-9202-daf358671d94)
 
-# Ranbir's Cycles
-
 Ranbir's Cycles is a dynamic web application for listing and viewing bicycles available for rent. It enables users to sign up, post a bike for rent, view current listings, manage bicycle listings, request to rent a bicycle, and manage rental requests on a submitted bike. 
 
 ## Features
